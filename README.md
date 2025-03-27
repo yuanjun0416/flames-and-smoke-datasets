@@ -29,6 +29,13 @@
 个人评价: \
 图片展示(仅展示了火焰和烟雾标注，其余标注请看数据集)
 
+### 4. FLAME 
+论文：Aerial imagery pile burn detection using deep learning: The FLAME dataset \
+下载网址: https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs \
+数据集描述: 火光度空中机器学习评估 (FLAME) 提供使用两架无人机 (UAV) 收集的亚利桑那州北部森林中燃烧堆积碎石的航拍图像和视频。该数据集包括使用传统和热成像相机拍摄的四种摄影模式：正常、Fusion、WhiteHot 和 GreenHot。火灾识别任务包括 48,010 张 RGB 航拍图像，分为 30,155 张火灾图像和 17,855 张非火灾图像，专门为野火识别而精心挑选。该数据集包括 2003 个分割掩码，带有用于火灾分割任务的像素级注释。该数据集是火灾识别、分割方法和进一步开发基于视觉的火灾蔓延模型的宝贵资源
+个人评价：分割火灾数据集，场景单一，重复图像多
+图片展示: 直接在下载网址上可以观察
+
 ## 双光谱火灾数据集
 ### 1. Flame 2
 论文: FLAME 2: Fire detection and modeLing: Aerial Multi-spectral imagE dataset \
