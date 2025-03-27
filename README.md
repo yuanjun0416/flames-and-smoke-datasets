@@ -1,8 +1,9 @@
 # flames-and-smoke-datasets
 
-#### 总结火灾数据集的论文
+### 总结火灾数据集的论文
 1. Video Fire Detection Methods Based on Deep Learning: Datasets, Methods, and Future Directions
- 
+
+### 火灾数据集
 #### DFS
 论文：
 下载网址：
