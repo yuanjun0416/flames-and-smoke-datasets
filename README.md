@@ -58,6 +58,10 @@
 图像展示(train_fire):
 ![images/Forest-Fire/1.jpg](images/Forest-Fire/1.jpg)
 
+### 9. Forest Fire
+下载网址: https://www.kaggle.com/datasets/phylake1337/fire-dataset \
+数据集描述: 未标注 \
+
 ## 双光谱火灾数据集
 ### 1. Flame 2
 论文: FLAME 2: Fire detection and modeLing: Aerial Multi-spectral imagE dataset \
