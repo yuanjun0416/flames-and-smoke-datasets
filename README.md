@@ -1,5 +1,4 @@
 # flames-and-smoke-datasets
-总结一下公开的火焰和烟雾数据集
 
 #### 总结火灾数据集的论文
 1. Video Fire Detection Methods Based on Deep Learning: Datasets, Methods, and Future Directions
