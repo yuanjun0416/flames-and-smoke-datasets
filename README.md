@@ -56,7 +56,7 @@
 下载网址: https://www.kaggle.com/datasets/kutaykutlu/forest-fire?resource=download \
 数据集描述: 未标注, train-smoke中合成烟雾, train_fire中为正常火灾图像 \
 图像展示(train_fire):
-![images/Forest-Fire/1.jpg]
+![images/Forest-Fire/1.jpg](images/Forest-Fire/1.jpg)
 
 ## 双光谱火灾数据集
 ### 1. Flame 2
