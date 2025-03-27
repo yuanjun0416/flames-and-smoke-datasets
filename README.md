@@ -49,7 +49,7 @@
 个人评价: 重复图像多
 
 ### 7. fire-smoke-detect-yolov4
-下载网址: https://github.com/gengyanlei/fire-smoke-detect-yolov4/blob/master/readmes/README_ZN.md
+下载网址: https://github.com/gengyanlei/fire-smoke-detect-yolov4/blob/master/readmes/README_ZN.md \
 个人评价: 标注质量也不是特别好
 
 ## 双光谱火灾数据集
