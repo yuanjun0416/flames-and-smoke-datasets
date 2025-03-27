@@ -43,9 +43,9 @@
 个人评价: 图像数量少
 
 ### 6. VisiFire
-论文:  Available online: http://signal.ee.bilkent.edu.tr/VisiFire/ 
-下载网址:  Available online: http://signal.ee.bilkent.edu.tr/VisiFire/ 
-数据集描述: VisiFire 数据集是一个广泛使用的用于火灾和烟雾检测的公共视频数据集。它包含四类视频：火焰、烟雾、其他和森林烟雾。火灾组包含 13 个视频，烟雾组包含 21 个视频，森林烟雾组包含 21 个视频，其他视频组包含 2 个视频。Dharmawan 等人 [30] 从 VisiFire 数据集中选择了 12 个常用视频进行逐帧分割注释，最终得到 2684 个带注释的帧。
+论文:  Available online: http://signal.ee.bilkent.edu.tr/VisiFire/  \
+下载网址:  Available online: http://signal.ee.bilkent.edu.tr/VisiFire/  \
+数据集描述: VisiFire 数据集是一个广泛使用的用于火灾和烟雾检测的公共视频数据集。它包含四类视频：火焰、烟雾、其他和森林烟雾。火灾组包含 13 个视频，烟雾组包含 21 个视频，森林烟雾组包含 21 个视频，其他视频组包含 2 个视频。Dharmawan 等人 [30] 从 VisiFire 数据集中选择了 12 个常用视频进行逐帧分割注释，最终得到 2684 个带注释的帧。 \
 个人评价: 重复图像多
 
 
