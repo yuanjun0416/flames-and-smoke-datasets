@@ -42,6 +42,13 @@
 数据集描述: BoWFire 数据集包含 226 张不同分辨率的图像，其中 119 张图像描绘火灾，107 张图像代表非火灾场景。火灾图像涵盖紧急火灾事件的不同场景，例如建筑火灾、工业火灾、事故和骚乱。非火灾图像包括红色或黄色色调的火状物体和日落场景。此外，还提供了一个由 240 张分辨率为 50 × 50 像素的图像组成的训练集，其中包括 80 张火灾图像和 160 张非火灾图像。 \
 个人评价: 图像数量少
 
+### 6. VisiFire
+论文:  Available online: http://signal.ee.bilkent.edu.tr/VisiFire/ 
+下载网址:  Available online: http://signal.ee.bilkent.edu.tr/VisiFire/ 
+数据集描述: VisiFire 数据集是一个广泛使用的用于火灾和烟雾检测的公共视频数据集。它包含四类视频：火焰、烟雾、其他和森林烟雾。火灾组包含 13 个视频，烟雾组包含 21 个视频，森林烟雾组包含 21 个视频，其他视频组包含 2 个视频。Dharmawan 等人 [30] 从 VisiFire 数据集中选择了 12 个常用视频进行逐帧分割注释，最终得到 2684 个带注释的帧。
+个人评价: 重复图像多
+
+
 ## 双光谱火灾数据集
 ### 1. Flame 2
 论文: FLAME 2: Fire detection and modeLing: Aerial Multi-spectral imagE dataset \
