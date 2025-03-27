@@ -5,9 +5,9 @@
 
 ### 火灾数据集
 #### DFS
-论文：
-下载网址：
-数据集描述：
+论文： A dataset for fire and smoke object detection
+下载网址：https://github.com/siyuanwu/DFS-FIRE-SMOKE-Dataset?tab=readme-ov-file
+数据集描述：火灾和烟雾检测数据集 (DFS) 包含从真实场景中收集的 9462 张火灾图像。图像根据火焰面积在图像中所占的比例进行分类，包括大火焰、中火焰和小火焰，分别有 3357 张、4722 张和 349 张图像。除了“火焰”和“烟雾”的注释外，DFS 还包含一个名为“其他”的新类别，用于标记车辆灯、路灯、阳光和金属灯等对象，总共包含 1034 张图像。包含此“其他”类别是为了减少因错误分类而导致的误报。个人评价：标注的质量不高，且火灾图像的质量也不是很高，DFS中包好大量的其它标注目标"other"
 
 #### D-Fire dataset
 论文：An automatic fire-detection system based on deep convolutional neural networks for low-power, resource-constrained devices \
