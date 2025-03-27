@@ -29,3 +29,8 @@
 个人评价: \
 图片展示(仅展示了火焰和烟雾标注，其余标注请看数据集)
 
+## 双光谱火灾数据集
+### 1. Flame 2
+论文: FLAME 2: Fire detection and modeLing: Aerial Multi-spectral imagE dataset
+下载网址: https://ieee-dataport.org/open-access/flame-2-fire-detection-and-modeling-aerial-multi-spectral-image-dataset
+个人评价: 大量重复的图像、没有目标检测标注文件
