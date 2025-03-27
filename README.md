@@ -48,6 +48,9 @@
 数据集描述: VisiFire 数据集是一个广泛使用的用于火灾和烟雾检测的公共视频数据集。它包含四类视频：火焰、烟雾、其他和森林烟雾。火灾组包含 13 个视频，烟雾组包含 21 个视频，森林烟雾组包含 21 个视频，其他视频组包含 2 个视频。Dharmawan 等人 [30] 从 VisiFire 数据集中选择了 12 个常用视频进行逐帧分割注释，最终得到 2684 个带注释的帧。 \
 个人评价: 重复图像多
 
+### 7. fire-smoke-detect-yolov4
+下载网址: https://github.com/gengyanlei/fire-smoke-detect-yolov4/blob/master/readmes/README_ZN.md
+个人评价: 标注质量也不是特别好
 
 ## 双光谱火灾数据集
 ### 1. Flame 2
